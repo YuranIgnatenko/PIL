@@ -1,6 +1,6 @@
 package main
 
-import . "Pillow"
+import . "img_tools"
 
 func main() {
 	ShowImage("img1.png")
