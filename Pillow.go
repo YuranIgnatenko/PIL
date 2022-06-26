@@ -1,4 +1,4 @@
-package Pillow
+package img_tools
 
 import (
 	cmd "CtrlCmd"
